@@ -3,7 +3,7 @@
 -timp- cel mai eficient drum nu e neaparat cel mai scurt dpv al distantei,
 ci al timpului
 
--locuri de unde se poate lua energie, cât și “stații de încărcare”
+-locuri de unde se poate lua energie, cât și “stații de încărcare”(doar in subteran)
 
 -item-uri pe care le poate găsi pe jos, care sunt folositoare la
 obstacolele din drum precum:
@@ -14,7 +14,6 @@ dacă nu ii va lua mai mult timp și mai multă energie
 -târnăcop-poate sa spargă pereții-obstacol ca sa ajungă in alte culoare, dar
 asta ii va lua mai multă energie.
 
--o sa avem și anumite pătrate magice care te teleporteaza/te sare in alte pătrate,
- in schimbul energiei
+-o sa avem și anumite pătrate magice care te coboara in subteran
 
 -spart cod

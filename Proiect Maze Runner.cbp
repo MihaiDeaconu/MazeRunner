@@ -32,7 +32,11 @@
 			<Add option="-Wall" />
 			<Add option="-fexceptions" />
 		</Compiler>
+		<Unit filename="date.in" />
+		<Unit filename="date.out" />
 		<Unit filename="main.cpp" />
+		<Unit filename="maze.in" />
+		<Unit filename="reguli.in" />
 		<Extensions>
 			<code_completion />
 			<envvars />
